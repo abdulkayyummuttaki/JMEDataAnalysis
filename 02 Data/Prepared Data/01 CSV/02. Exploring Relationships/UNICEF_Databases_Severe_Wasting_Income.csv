@@ -1,0 +1,860 @@
+UN Regions,Countries and areas,Year*,World Bank Income Groups,Average of National Point Estimate
+Africa,Algeria,1992,Lower Middle Income,3
+Africa,Algeria,1995,Lower Middle Income,4.2
+Africa,Algeria,2000,Lower Middle Income,1.1
+Africa,Algeria,2002,Lower Middle Income,5
+Africa,Algeria,2006,Lower Middle Income,1.7
+Africa,Algeria,2012,Lower Middle Income,1.4
+Africa,Algeria,2019,Lower Middle Income,1.3
+Africa,Angola,1996,Lower Middle Income,1.8
+Africa,Angola,2007,Lower Middle Income,4.5
+Africa,Angola,2015,Lower Middle Income,1.1
+Africa,Benin,1996,Lower Middle Income,5.4
+Africa,Benin,2001,Lower Middle Income,3.1
+Africa,Benin,2008,Lower Middle Income,1.1
+Africa,Benin,2014,Lower Middle Income,0.9
+Africa,Benin,2018,Lower Middle Income,1.1
+Africa,Botswana,2000,Upper Middle Income,2.7
+Africa,Botswana,2007,Upper Middle Income,3
+Africa,Burkina Faso,1993,Low Income,5.9
+Africa,Burkina Faso,1999,Low Income,5.6
+Africa,Burkina Faso,2009,Low Income,2.7
+Africa,Burkina Faso,2010,Low Income,4.3
+Africa,Burkina Faso,2011,Low Income,2.2
+Africa,Burkina Faso,2012,Low Income,1.8
+Africa,Burkina Faso,2013,Low Income,1.6
+Africa,Burkina Faso,2014,Low Income,1.7
+Africa,Burkina Faso,2015,Low Income,2.1
+Africa,Burkina Faso,2016,Low Income,1.4
+Africa,Burkina Faso,2017,Low Income,1.9
+Africa,Burkina Faso,2018,Low Income,1.7
+Africa,Burkina Faso,2019,Low Income,1
+Africa,Burkina Faso,2020,Low Income,0.7
+Africa,Burkina Faso,2021,Low Income,1.55
+Africa,Burundi,1987,Low Income,1.8
+Africa,Burundi,2000,Low Income,1.6
+Africa,Burundi,2010,Low Income,1.4
+Africa,Burundi,2016,Low Income,0.9
+Africa,Burundi,2018,Low Income,0.8
+Africa,Burundi,2019,Low Income,1
+Africa,Burundi,2020,Low Income,0.9
+Africa,Burundi,2022,Low Income,1.4
+Africa,Cameroon,1991,Lower Middle Income,1.1
+Africa,Cameroon,1998,Lower Middle Income,2.1
+Africa,Cameroon,2004,Lower Middle Income,2.3
+Africa,Cameroon,2006,Lower Middle Income,2.6
+Africa,Cameroon,2011,Lower Middle Income,2
+Africa,Cameroon,2014,Lower Middle Income,1.3
+Africa,Cameroon,2018,Lower Middle Income,1.6
+Africa,Central African Republic,1994,Low Income,2.2
+Africa,Central African Republic,2000,Low Income,4.7
+Africa,Central African Republic,2006,Low Income,5
+Africa,Central African Republic,2010,Low Income,1.9
+Africa,Central African Republic,2012,Low Income,1.6
+Africa,Central African Republic,2014,Low Income,1.3
+Africa,Central African Republic,2018,Low Income,1.6
+Africa,Central African Republic,2019,Low Income,1.2
+Africa,Chad,1997,Low Income,6.1
+Africa,Chad,2000,Low Income,4.2
+Africa,Chad,2004,Low Income,6.5
+Africa,Chad,2010,Low Income,6.3
+Africa,Chad,2015,Low Income,4.4
+Africa,Chad,2017,Low Income,3.6
+Africa,Chad,2018,Low Income,4.1
+Africa,Chad,2019,Low Income,3.55
+Africa,Chad,2020,Low Income,2.1
+Africa,Chad,2021,Low Income,1.8
+Africa,Chad,2022,Low Income,1.3
+Africa,Comoros,1996,Lower Middle Income,3.7
+Africa,Comoros,2000,Lower Middle Income,7.2
+Africa,Comoros,2012,Lower Middle Income,4.5
+Africa,Congo,2005,Lower Middle Income,3
+Africa,Congo,2011,Lower Middle Income,1.7
+Africa,Congo,2014,Lower Middle Income,2.6
+Africa,Cote d'Ivoire,1986,Lower Middle Income,2.7
+Africa,Cote d'Ivoire,1994,Lower Middle Income,2.4
+Africa,Cote d'Ivoire,1998,Lower Middle Income,1.9
+Africa,Cote d'Ivoire,2007,Lower Middle Income,5.7
+Africa,Cote d'Ivoire,2012,Lower Middle Income,1.8
+Africa,Cote d'Ivoire,2016,Lower Middle Income,1.2
+Africa,Cote d'Ivoire,2021,Lower Middle Income,2.4
+Africa,Democratic Republic of the Congo,2001,Low Income,6.1
+Africa,Democratic Republic of the Congo,2007,Low Income,4.8
+Africa,Democratic Republic of the Congo,2010,Low Income,2.8
+Africa,Democratic Republic of the Congo,2013,Low Income,2.9
+Africa,Democratic Republic of the Congo,2017,Low Income,2
+Africa,Djibouti,2011,Lower Middle Income,1.3
+Africa,Djibouti,2013,Lower Middle Income,3.4
+Africa,Djibouti,2019,Lower Middle Income,2.7
+Africa,Egypt,1988,Lower Middle Income,0.6
+Africa,Egypt,1991,Lower Middle Income,2.3
+Africa,Egypt,1992,Lower Middle Income,1.8
+Africa,Egypt,1995,Lower Middle Income,2.3
+Africa,Egypt,2003,Lower Middle Income,1.8
+Africa,Egypt,2005,Lower Middle Income,2.5
+Africa,Egypt,2008,Lower Middle Income,3.8
+Africa,Egypt,2014,Lower Middle Income,4.8
+Africa,Equatorial Guinea,1997,Upper Middle Income,2.5
+Africa,Equatorial Guinea,2000,Upper Middle Income,4.2
+Africa,Equatorial Guinea,2004,Upper Middle Income,1.3
+Africa,Equatorial Guinea,2011,Upper Middle Income,1.7
+Africa,Eritrea,1995,Low Income,5.8
+Africa,Eritrea,2002,Low Income,4.8
+Africa,Eritrea,2010,Low Income,4
+Africa,Eswatini,2000,Lower Middle Income,0.7
+Africa,Eswatini,2006,Lower Middle Income,1.2
+Africa,Eswatini,2008,Lower Middle Income,0.3
+Africa,Eswatini,2010,Lower Middle Income,0.4
+Africa,Eswatini,2014,Lower Middle Income,0.4
+Africa,Ethiopia,2000,Low Income,3.8
+Africa,Ethiopia,2005,Low Income,4.7
+Africa,Ethiopia,2011,Low Income,2.9
+Africa,Ethiopia,2014,Low Income,2.7
+Africa,Ethiopia,2016,Low Income,3
+Africa,Ethiopia,2019,Low Income,1.1
+Africa,Gabon,2000,Upper Middle Income,1.5
+Africa,Gabon,2012,Upper Middle Income,1.3
+Africa,Gabon,2020,Upper Middle Income,0.9
+Africa,Gambia,2000,Low Income,2.5
+Africa,Gambia,2006,Low Income,1.8
+Africa,Gambia,2010,Low Income,2.65
+Africa,Gambia,2012,Low Income,1.6
+Africa,Gambia,2013,Low Income,4.3
+Africa,Gambia,2018,Low Income,1.15
+Africa,Gambia,2020,Low Income,0.6
+Africa,Ghana,1988,Lower Middle Income,1.3
+Africa,Ghana,1993,Lower Middle Income,4
+Africa,Ghana,1997,Lower Middle Income,2.2
+Africa,Ghana,1998,Lower Middle Income,2.5
+Africa,Ghana,2003,Lower Middle Income,2.8
+Africa,Ghana,2006,Lower Middle Income,1.8
+Africa,Ghana,2008,Lower Middle Income,2.4
+Africa,Ghana,2011,Lower Middle Income,1.4
+Africa,Ghana,2014,Lower Middle Income,0.7
+Africa,Ghana,2017,Lower Middle Income,1.1
+Africa,Guinea,1999,Low Income,4
+Africa,Guinea,2005,Low Income,4.2
+Africa,Guinea,2007,Low Income,2.4
+Africa,Guinea,2012,Low Income,2.6
+Africa,Guinea,2016,Low Income,2.9
+Africa,Guinea,2018,Low Income,3.6
+Africa,Guinea-Bissau,2000,Low Income,4.8
+Africa,Guinea-Bissau,2010,Low Income,1
+Africa,Guinea-Bissau,2012,Low Income,0.9
+Africa,Guinea-Bissau,2014,Low Income,1.4
+Africa,Guinea-Bissau,2019,Low Income,1.25
+Africa,Kenya,1993,Lower Middle Income,2.6
+Africa,Kenya,1994,Lower Middle Income,2.4
+Africa,Kenya,1998,Lower Middle Income,3
+Africa,Kenya,2000,Lower Middle Income,2.9
+Africa,Kenya,2003,Lower Middle Income,2.4
+Africa,Kenya,2005,Lower Middle Income,2.4
+Africa,Kenya,2008,Lower Middle Income,2.1
+Africa,Kenya,2011,Lower Middle Income,1.9
+Africa,Kenya,2014,Lower Middle Income,1
+Africa,Kenya,2016,Lower Middle Income,2.3
+Africa,Kenya,2022,Lower Middle Income,0.6
+Africa,Lesotho,2004,Lower Middle Income,2.2
+Africa,Lesotho,2009,Lower Middle Income,1.5
+Africa,Lesotho,2014,Lower Middle Income,0.6
+Africa,Lesotho,2018,Lower Middle Income,0.8
+Africa,Liberia,2000,Low Income,2.2
+Africa,Liberia,2007,Low Income,3
+Africa,Liberia,2010,Low Income,1
+Africa,Liberia,2013,Low Income,2
+Africa,Liberia,2016,Low Income,0.7
+Africa,Liberia,2019,Low Income,0.5
+Africa,Libya,1995,Upper Middle Income,1.5
+Africa,Libya,2007,Upper Middle Income,2.9
+Africa,Libya,2014,Upper Middle Income,5.3
+Africa,Madagascar,1992,Low Income,1.2
+Africa,Madagascar,1997,Low Income,2.4
+Africa,Madagascar,2004,Low Income,5.6
+Africa,Madagascar,2012,Low Income,0.9
+Africa,Madagascar,2018,Low Income,1
+Africa,Madagascar,2021,Low Income,1.5
+Africa,Malawi,1992,Low Income,2.1
+Africa,Malawi,1998,Low Income,4.3
+Africa,Malawi,2000,Low Income,2.9
+Africa,Malawi,2002,Low Income,2.5
+Africa,Malawi,2004,Low Income,3.2
+Africa,Malawi,2006,Low Income,1.5
+Africa,Malawi,2009,Low Income,0.3
+Africa,Malawi,2010,Low Income,1.5
+Africa,Malawi,2014,Low Income,1.1
+Africa,Malawi,2015,Low Income,0.6
+Africa,Malawi,2016,Low Income,0.8
+Africa,Malawi,2017,Low Income,0.2
+Africa,Malawi,2018,Low Income,0.1
+Africa,Malawi,2019,Low Income,0.2
+Africa,Malawi,2020,Low Income,0.45
+Africa,Mali,1987,Low Income,3.5
+Africa,Mali,1996,Low Income,10.3
+Africa,Mali,2001,Low Income,4.2
+Africa,Mali,2006,Low Income,6.1
+Africa,Mali,2010,Low Income,1.9
+Africa,Mali,2011,Low Income,2.1
+Africa,Mali,2014,Low Income,3
+Africa,Mali,2015,Low Income,3.15
+Africa,Mali,2016,Low Income,2.2
+Africa,Mali,2017,Low Income,2.5
+Africa,Mali,2018,Low Income,2.35
+Africa,Mali,2019,Low Income,2
+Africa,Mali,2020,Low Income,1.4
+Africa,Mali,2021,Low Income,1.8
+Africa,Mali,2022,Low Income,2.2
+Africa,Mauritania,2000,Lower Middle Income,7.2
+Africa,Mauritania,2007,Lower Middle Income,3.8
+Africa,Mauritania,2008,Lower Middle Income,1.1
+Africa,Mauritania,2011,Lower Middle Income,4
+Africa,Mauritania,2012,Lower Middle Income,1.9
+Africa,Mauritania,2015,Lower Middle Income,3.5
+Africa,Mauritania,2018,Lower Middle Income,2.3
+Africa,Mauritania,2019,Lower Middle Income,1.8
+Africa,Mauritania,2020,Lower Middle Income,1
+Africa,Mauritania,2021,Lower Middle Income,1.7
+Africa,Mauritania,2022,Lower Middle Income,2.6
+Africa,Morocco,1987,Lower Middle Income,1.5
+Africa,Morocco,1992,Lower Middle Income,1.1
+Africa,Morocco,1997,Lower Middle Income,2
+Africa,Morocco,2003,Lower Middle Income,5
+Africa,Morocco,2011,Lower Middle Income,1
+Africa,Morocco,2017,Lower Middle Income,1.1
+Africa,Morocco,2019,Lower Middle Income,0.4
+Africa,Mozambique,1997,Low Income,3.4
+Africa,Mozambique,2001,Low Income,3.6
+Africa,Mozambique,2003,Low Income,2.1
+Africa,Mozambique,2008,Low Income,1.3
+Africa,Mozambique,2011,Low Income,2.4
+Africa,Mozambique,2015,Low Income,1.7
+Africa,Mozambique,2020,Low Income,1
+Africa,Namibia,1992,Upper Middle Income,3.2
+Africa,Namibia,2000,Upper Middle Income,3
+Africa,Namibia,2007,Upper Middle Income,2
+Africa,Namibia,2013,Upper Middle Income,2.8
+Africa,Niger,1992,Low Income,6.7
+Africa,Niger,1998,Low Income,7.1
+Africa,Niger,2000,Low Income,6.1
+Africa,Niger,2006,Low Income,3.7
+Africa,Niger,2007,Low Income,3
+Africa,Niger,2008,Low Income,3.1
+Africa,Niger,2009,Low Income,2.3
+Africa,Niger,2010,Low Income,3.3
+Africa,Niger,2011,Low Income,2.2
+Africa,Niger,2012,Low Income,4.7
+Africa,Niger,2013,Low Income,2.5
+Africa,Niger,2014,Low Income,2.7
+Africa,Niger,2015,Low Income,3.5
+Africa,Niger,2016,Low Income,2.1
+Africa,Niger,2018,Low Income,3
+Africa,Niger,2019,Low Income,2.4
+Africa,Niger,2020,Low Income,2.5
+Africa,Niger,2021,Low Income,2.3
+Africa,Niger,2022,Low Income,2.1
+Africa,Nigeria,1990,Lower Middle Income,4.4
+Africa,Nigeria,2003,Lower Middle Income,4.7
+Africa,Nigeria,2011,Lower Middle Income,3.1
+Africa,Nigeria,2014,Lower Middle Income,1.8
+Africa,Nigeria,2015,Lower Middle Income,1.8
+Africa,Nigeria,2016,Lower Middle Income,2.9
+Africa,Nigeria,2018,Lower Middle Income,1.6
+Africa,Nigeria,2020,Lower Middle Income,1.4
+Africa,Rwanda,1992,Low Income,1.8
+Africa,Rwanda,2000,Low Income,3.8
+Africa,Rwanda,2005,Low Income,1.7
+Africa,Rwanda,2009,Low Income,2.2
+Africa,Rwanda,2010,Low Income,0.9
+Africa,Rwanda,2012,Low Income,0.6
+Africa,Rwanda,2015,Low Income,0.6
+Africa,Rwanda,2018,Low Income,0.4
+Africa,Rwanda,2020,Low Income,0.2
+Africa,Sao Tome and Principe,2014,Lower Middle Income,0.8
+Africa,Sao Tome and Principe,2019,Lower Middle Income,1.4
+Africa,Senegal,1986,Lower Middle Income,1.2
+Africa,Senegal,1993,Lower Middle Income,3
+Africa,Senegal,2000,Lower Middle Income,2.9
+Africa,Senegal,2005,Lower Middle Income,2.3
+Africa,Senegal,2011,Lower Middle Income,2.3
+Africa,Senegal,2012,Lower Middle Income,1.2
+Africa,Senegal,2013,Lower Middle Income,1.65
+Africa,Senegal,2014,Lower Middle Income,1
+Africa,Senegal,2015,Lower Middle Income,1.35
+Africa,Senegal,2016,Lower Middle Income,1.2
+Africa,Senegal,2017,Lower Middle Income,1.5
+Africa,Senegal,2018,Lower Middle Income,1.2
+Africa,Senegal,2019,Lower Middle Income,1.7
+Africa,Seychelles,2012,High Income,1.2
+Africa,Sierra Leone,2000,Low Income,3.9
+Africa,Sierra Leone,2005,Low Income,4.2
+Africa,Sierra Leone,2010,Low Income,1.6
+Africa,Sierra Leone,2014,Low Income,1
+Africa,Sierra Leone,2017,Low Income,1.65
+Africa,Sierra Leone,2019,Low Income,1.1
+Africa,Sierra Leone,2021,Low Income,2.4
+Africa,Somalia,2006,Low Income,4.4
+Africa,Somalia,2009,Low Income,4.3
+Africa,South Africa,2008,Upper Middle Income,2.5
+Africa,South Africa,2015,Upper Middle Income,2.4
+Africa,South Africa,2016,Upper Middle Income,0.6
+Africa,South Africa,2017,Upper Middle Income,1.9
+Africa,South Sudan,2006,Low Income,12.9
+Africa,South Sudan,2010,Low Income,9.9
+Africa,Sudan,2006,Low Income,5.7
+Africa,Sudan,2010,Low Income,4.1
+Africa,Sudan,2014,Low Income,4.5
+Africa,Togo,1988,Low Income,1
+Africa,Togo,1998,Low Income,3.4
+Africa,Togo,2008,Low Income,0.7
+Africa,Togo,2009,Low Income,1
+Africa,Togo,2010,Low Income,0.9
+Africa,Togo,2012,Low Income,0.7
+Africa,Togo,2014,Low Income,1.5
+Africa,Togo,2017,Low Income,1.1
+Africa,Tunisia,1988,Lower Middle Income,0.7
+Africa,Tunisia,2006,Lower Middle Income,1.2
+Africa,Tunisia,2012,Lower Middle Income,1.7
+Africa,Tunisia,2018,Lower Middle Income,0.9
+Africa,Uganda,1988,Low Income,0.9
+Africa,Uganda,1995,Low Income,2
+Africa,Uganda,2000,Low Income,1.5
+Africa,Uganda,2006,Low Income,2.2
+Africa,Uganda,2009,Low Income,1.4
+Africa,Uganda,2011,Low Income,1.6
+Africa,Uganda,2012,Low Income,0.3
+Africa,Uganda,2014,Low Income,0.9
+Africa,Uganda,2015,Low Income,1.8
+Africa,Uganda,2016,Low Income,1.3
+Africa,Uganda,2018,Low Income,0.7
+Africa,Uganda,2020,Low Income,1
+Africa,United Republic of Tanzania,1991,Lower Middle Income,2.8
+Africa,United Republic of Tanzania,1996,Lower Middle Income,2.9
+Africa,United Republic of Tanzania,1999,Lower Middle Income,2
+Africa,United Republic of Tanzania,2004,Lower Middle Income,1
+Africa,United Republic of Tanzania,2009,Lower Middle Income,0.8
+Africa,United Republic of Tanzania,2010,Lower Middle Income,1.3
+Africa,United Republic of Tanzania,2011,Lower Middle Income,1.7
+Africa,United Republic of Tanzania,2013,Lower Middle Income,1.5
+Africa,United Republic of Tanzania,2014,Lower Middle Income,0.9
+Africa,United Republic of Tanzania,2015,Lower Middle Income,1.2
+Africa,United Republic of Tanzania,2018,Lower Middle Income,0.4
+Africa,United Republic of Tanzania,2019,Lower Middle Income,0.9
+Africa,United Republic of Tanzania,2022,Lower Middle Income,0.9
+Africa,Zambia,1992,Low Income,2.2
+Africa,Zambia,1996,Low Income,1.7
+Africa,Zambia,1999,Low Income,2
+Africa,Zambia,2002,Low Income,2.3
+Africa,Zambia,2007,Low Income,2.3
+Africa,Zambia,2013,Low Income,2.5
+Africa,Zambia,2018,Low Income,1.5
+Africa,Zimbabwe,1988,Lower Middle Income,0.4
+Africa,Zimbabwe,1994,Lower Middle Income,1.5
+Africa,Zimbabwe,1999,Lower Middle Income,4.1
+Africa,Zimbabwe,2005,Lower Middle Income,2.9
+Africa,Zimbabwe,2009,Lower Middle Income,0.5
+Africa,Zimbabwe,2010,Lower Middle Income,0.8
+Africa,Zimbabwe,2014,Lower Middle Income,0.7
+Africa,Zimbabwe,2015,Lower Middle Income,1.1
+Africa,Zimbabwe,2019,Lower Middle Income,0.3
+Asia,Afghanistan,2004,Low Income,3.8
+Asia,Afghanistan,2013,Low Income,4
+Asia,Afghanistan,2018,Low Income,1.6
+Asia,Armenia,1998,Upper Middle Income,1
+Asia,Armenia,2000,Upper Middle Income,0.7
+Asia,Armenia,2005,Upper Middle Income,2.6
+Asia,Armenia,2010,Upper Middle Income,2
+Asia,Armenia,2016,Upper Middle Income,1.7
+Asia,Azerbaijan,2000,Upper Middle Income,4.1
+Asia,Azerbaijan,2006,Upper Middle Income,2.2
+Asia,Azerbaijan,2011,Upper Middle Income,2.9
+Asia,Azerbaijan,2013,Upper Middle Income,1.1
+Asia,Bangladesh,1991,Lower Middle Income,2.6
+Asia,Bangladesh,1992,Lower Middle Income,3
+Asia,Bangladesh,1993,Lower Middle Income,2.5
+Asia,Bangladesh,1994,Lower Middle Income,3.2
+Asia,Bangladesh,1995,Lower Middle Income,2.7
+Asia,Bangladesh,1996,Lower Middle Income,2.8
+Asia,Bangladesh,1997,Lower Middle Income,6.8
+Asia,Bangladesh,1998,Lower Middle Income,2.3
+Asia,Bangladesh,1999,Lower Middle Income,2
+Asia,Bangladesh,2000,Lower Middle Income,2.5
+Asia,Bangladesh,2001,Lower Middle Income,2.3
+Asia,Bangladesh,2002,Lower Middle Income,2.1
+Asia,Bangladesh,2003,Lower Middle Income,2.1
+Asia,Bangladesh,2004,Lower Middle Income,3.5
+Asia,Bangladesh,2005,Lower Middle Income,2.4
+Asia,Bangladesh,2006,Lower Middle Income,1.6
+Asia,Bangladesh,2007,Lower Middle Income,2.9
+Asia,Bangladesh,2011,Lower Middle Income,3.95
+Asia,Bangladesh,2012,Lower Middle Income,4.9
+Asia,Bangladesh,2013,Lower Middle Income,3.25
+Asia,Bangladesh,2014,Lower Middle Income,3.2
+Asia,Bangladesh,2015,Lower Middle Income,4.3
+Asia,Bangladesh,2018,Lower Middle Income,1.5
+Asia,Bangladesh,2019,Lower Middle Income,2.05
+Asia,Bhutan,1999,Lower Middle Income,0.8
+Asia,Bhutan,2008,Lower Middle Income,1.4
+Asia,Bhutan,2010,Lower Middle Income,2
+Asia,Brunei Darussalam,2009,High Income,0.4
+Asia,Cambodia,1996,Lower Middle Income,4.5
+Asia,Cambodia,2000,Lower Middle Income,7.5
+Asia,Cambodia,2005,Lower Middle Income,1.8
+Asia,Cambodia,2008,Lower Middle Income,1.9
+Asia,Cambodia,2010,Lower Middle Income,2.7
+Asia,Cambodia,2014,Lower Middle Income,2.5
+Asia,Cambodia,2021,Lower Middle Income,2.4
+Asia,China,1990,Upper Middle Income,1.4
+Asia,China,1992,Upper Middle Income,1.3
+Asia,China,1995,Upper Middle Income,1.8
+Asia,China,1998,Upper Middle Income,0.6
+Asia,China,2000,Upper Middle Income,0.5
+Asia,China,2002,Upper Middle Income,0.8
+Asia,China,2005,Upper Middle Income,0.8
+Asia,China,2008,Upper Middle Income,0.6
+Asia,China,2009,Upper Middle Income,0.7
+Asia,China,2010,Upper Middle Income,0.7
+Asia,Democratic People's Republic of Korea,2002,Low Income,3.5
+Asia,Democratic People's Republic of Korea,2009,Low Income,0.5
+Asia,Democratic People's Republic of Korea,2012,Low Income,0.6
+Asia,Democratic People's Republic of Korea,2017,Low Income,0.5
+Asia,Georgia,2005,Upper Middle Income,1.1
+Asia,Georgia,2009,Upper Middle Income,0.3
+Asia,Georgia,2018,Upper Middle Income,0.1
+Asia,India,1992,Lower Middle Income,6.9
+Asia,India,1999,Lower Middle Income,5.9
+Asia,India,2006,Lower Middle Income,6.8
+Asia,India,2014,Lower Middle Income,4.6
+Asia,India,2015,Lower Middle Income,7.7
+Asia,India,2017,Lower Middle Income,4.9
+Asia,India,2020,Lower Middle Income,7.5
+Asia,Indonesia,2000,Lower Middle Income,0.9
+Asia,Indonesia,2001,Lower Middle Income,0.8
+Asia,Indonesia,2004,Lower Middle Income,5.1
+Asia,Indonesia,2007,Lower Middle Income,6.8
+Asia,Indonesia,2010,Lower Middle Income,5.4
+Asia,Indonesia,2013,Lower Middle Income,6.7
+Asia,Indonesia,2018,Lower Middle Income,3.5
+Asia,Iran (Islamic Republic of),2010,Lower Middle Income,1.4
+Asia,Iran (Islamic Republic of),2017,Lower Middle Income,0.9
+Asia,Iraq,2000,Upper Middle Income,2.4
+Asia,Iraq,2006,Upper Middle Income,2.7
+Asia,Iraq,2011,Upper Middle Income,2.7
+Asia,Iraq,2018,Upper Middle Income,0.9
+Asia,Japan,2010,High Income,0.2
+Asia,Jordan,1990,Upper Middle Income,1.5
+Asia,Jordan,1997,Upper Middle Income,0.6
+Asia,Jordan,2002,Upper Middle Income,0.8
+Asia,Jordan,2009,Upper Middle Income,0.2
+Asia,Jordan,2012,Upper Middle Income,0.7
+Asia,Jordan,2019,Upper Middle Income,0.3
+Asia,Kazakhstan,1995,Upper Middle Income,1.8
+Asia,Kazakhstan,1999,Upper Middle Income,1
+Asia,Kazakhstan,2006,Upper Middle Income,2.3
+Asia,Kazakhstan,2010,Upper Middle Income,1.7
+Asia,Kazakhstan,2015,Upper Middle Income,1.1
+Asia,Kuwait,2001,High Income,0.4
+Asia,Kuwait,2002,High Income,0.5
+Asia,Kuwait,2003,High Income,0.7
+Asia,Kuwait,2004,High Income,1.1
+Asia,Kuwait,2005,High Income,1
+Asia,Kuwait,2006,High Income,0.6
+Asia,Kuwait,2007,High Income,0.8
+Asia,Kuwait,2008,High Income,0.5
+Asia,Kuwait,2009,High Income,0.3
+Asia,Kuwait,2010,High Income,0.6
+Asia,Kuwait,2011,High Income,0.4
+Asia,Kuwait,2012,High Income,0.6
+Asia,Kuwait,2013,High Income,0.7
+Asia,Kuwait,2014,High Income,0.6
+Asia,Kuwait,2015,High Income,0.7
+Asia,Kuwait,2016,High Income,0.5
+Asia,Kuwait,2017,High Income,0.7
+Asia,Kuwait,2018,High Income,0.9
+Asia,Kuwait,2019,High Income,0.8
+Asia,Kuwait,2020,High Income,0.8
+Asia,Kyrgyzstan,1997,Lower Middle Income,0.8
+Asia,Kyrgyzstan,2006,Lower Middle Income,1
+Asia,Kyrgyzstan,2009,Lower Middle Income,0.1
+Asia,Kyrgyzstan,2012,Lower Middle Income,1.3
+Asia,Kyrgyzstan,2014,Lower Middle Income,0.8
+Asia,Kyrgyzstan,2018,Lower Middle Income,0.7
+Asia,Lao People's Democratic Republic,2000,Lower Middle Income,7.5
+Asia,Lao People's Democratic Republic,2006,Lower Middle Income,1.7
+Asia,Lao People's Democratic Republic,2011,Lower Middle Income,1.4
+Asia,Lao People's Democratic Republic,2015,Lower Middle Income,2.4
+Asia,Lao People's Democratic Republic,2017,Lower Middle Income,3
+Asia,Lebanon,2004,Lower Middle Income,2.9
+Asia,Lebanon,2021,Lower Middle Income,0.3
+Asia,Malaysia,2006,Upper Middle Income,4.7
+Asia,Malaysia,2015,Upper Middle Income,2.8
+Asia,Malaysia,2019,Upper Middle Income,3.6
+Asia,Maldives,1994,Upper Middle Income,3.5
+Asia,Maldives,1997,Upper Middle Income,10.3
+Asia,Maldives,2001,Upper Middle Income,3.5
+Asia,Maldives,2009,Upper Middle Income,2.7
+Asia,Maldives,2017,Upper Middle Income,2
+Asia,Mongolia,1999,Lower Middle Income,1.8
+Asia,Mongolia,2000,Lower Middle Income,3
+Asia,Mongolia,2004,Lower Middle Income,0.1
+Asia,Mongolia,2005,Lower Middle Income,1.1
+Asia,Mongolia,2010,Lower Middle Income,0.6
+Asia,Mongolia,2013,Lower Middle Income,0.4
+Asia,Mongolia,2016,Lower Middle Income,0.4
+Asia,Mongolia,2018,Lower Middle Income,0.3
+Asia,Myanmar,2000,Lower Middle Income,2.9
+Asia,Myanmar,2003,Lower Middle Income,3.7
+Asia,Myanmar,2009,Lower Middle Income,2.1
+Asia,Myanmar,2016,Lower Middle Income,1.3
+Asia,Myanmar,2018,Lower Middle Income,0.9
+Asia,Nepal,1996,Lower Middle Income,3.3
+Asia,Nepal,1998,Lower Middle Income,1.4
+Asia,Nepal,2001,Lower Middle Income,2.8
+Asia,Nepal,2006,Lower Middle Income,2.7
+Asia,Nepal,2011,Lower Middle Income,2.9
+Asia,Nepal,2014,Lower Middle Income,3.2
+Asia,Nepal,2016,Lower Middle Income,2.25
+Asia,Nepal,2019,Lower Middle Income,2.9
+Asia,Nepal,2022,Lower Middle Income,0.9
+Asia,Oman,1994,High Income,0.9
+Asia,Oman,1999,High Income,1.3
+Asia,Oman,2009,High Income,0.8
+Asia,Oman,2014,High Income,2.4
+Asia,Oman,2017,High Income,3.1
+Asia,Pakistan,1991,Lower Middle Income,4.8
+Asia,Pakistan,1992,Lower Middle Income,5
+Asia,Pakistan,2001,Lower Middle Income,5.8
+Asia,Pakistan,2011,Lower Middle Income,5.8
+Asia,Pakistan,2013,Lower Middle Income,3.3
+Asia,Pakistan,2018,Lower Middle Income,2.4
+Asia,Philippines,2003,Lower Middle Income,1.6
+Asia,Philippines,2008,Lower Middle Income,1.7
+Asia,Philippines,2011,Lower Middle Income,2
+Asia,Philippines,2013,Lower Middle Income,2.4
+Asia,Philippines,2015,Lower Middle Income,1.6
+Asia,Republic of Korea,2003,High Income,0.2
+Asia,Republic of Korea,2008,High Income,0.1
+Asia,Republic of Korea,2011,High Income,0.1
+Asia,Republic of Korea,2014,High Income,0
+Asia,Republic of Korea,2017,High Income,0
+Asia,Republic of Korea,2020,High Income,0
+Asia,Saudi Arabia,2004,High Income,4.5
+Asia,Saudi Arabia,2015,High Income,1.4
+Asia,Saudi Arabia,2016,High Income,1
+Asia,Saudi Arabia,2017,High Income,1.8
+Asia,Saudi Arabia,2018,High Income,1.1
+Asia,Saudi Arabia,2019,High Income,1
+Asia,Saudi Arabia,2020,High Income,1.3
+Asia,Singapore,2000,High Income,0.5
+Asia,Sri Lanka,1987,Lower Middle Income,1.1
+Asia,Sri Lanka,1993,Lower Middle Income,2.8
+Asia,Sri Lanka,2000,Lower Middle Income,2.2
+Asia,Sri Lanka,2007,Lower Middle Income,3.1
+Asia,Sri Lanka,2009,Lower Middle Income,1.9
+Asia,Sri Lanka,2012,Lower Middle Income,3
+Asia,Sri Lanka,2016,Lower Middle Income,3.1
+Asia,State of Palestine,1996,Lower Middle Income,0.9
+Asia,State of Palestine,2000,Lower Middle Income,0.7
+Asia,State of Palestine,2002,Lower Middle Income,0.7
+Asia,State of Palestine,2004,Lower Middle Income,1.4
+Asia,State of Palestine,2006,Lower Middle Income,0.7
+Asia,State of Palestine,2010,Lower Middle Income,1
+Asia,State of Palestine,2014,Lower Middle Income,0.3
+Asia,State of Palestine,2020,Lower Middle Income,0.6
+Asia,Syrian Arab Republic,1993,Low Income,4.5
+Asia,Syrian Arab Republic,2001,Low Income,5.3
+Asia,Syrian Arab Republic,2006,Low Income,4.8
+Asia,Syrian Arab Republic,2010,Low Income,5.5
+Asia,Tajikistan,2005,Lower Middle Income,3.5
+Asia,Tajikistan,2007,Lower Middle Income,3
+Asia,Tajikistan,2009,Lower Middle Income,1.3
+Asia,Tajikistan,2012,Lower Middle Income,4.1
+Asia,Tajikistan,2016,Lower Middle Income,1.2
+Asia,Tajikistan,2017,Lower Middle Income,1.8
+Asia,Thailand,1987,Upper Middle Income,0.6
+Asia,Thailand,2006,Upper Middle Income,1.4
+Asia,Thailand,2012,Upper Middle Income,2.2
+Asia,Thailand,2016,Upper Middle Income,1.4
+Asia,Thailand,2019,Upper Middle Income,2.7
+Asia,Timor-Leste,2002,Lower Middle Income,4.9
+Asia,Timor-Leste,2007,Lower Middle Income,4.5
+Asia,Timor-Leste,2009,Lower Middle Income,7.6
+Asia,Timor-Leste,2013,Lower Middle Income,2.1
+Asia,Timor-Leste,2014,Lower Middle Income,7.5
+Asia,Timor-Leste,2020,Lower Middle Income,1.5
+Asia,Türkiye,1993,Upper Middle Income,1
+Asia,Türkiye,1998,Upper Middle Income,0.8
+Asia,Türkiye,2004,Upper Middle Income,0.4
+Asia,Türkiye,2008,Upper Middle Income,0.3
+Asia,Türkiye,2013,Upper Middle Income,0.5
+Asia,Türkiye,2018,Upper Middle Income,0.6
+Asia,Turkmenistan,2000,Upper Middle Income,3.1
+Asia,Turkmenistan,2006,Upper Middle Income,2.1
+Asia,Turkmenistan,2015,Upper Middle Income,1.1
+Asia,Turkmenistan,2019,Upper Middle Income,1.1
+Asia,Uzbekistan,1996,Lower Middle Income,6.7
+Asia,Uzbekistan,2002,Lower Middle Income,3.9
+Asia,Uzbekistan,2006,Lower Middle Income,1.6
+Asia,Uzbekistan,2017,Lower Middle Income,0.3
+Asia,Uzbekistan,2021,Lower Middle Income,1.1
+Asia,Viet Nam,1993,Lower Middle Income,1.3
+Asia,Viet Nam,1999,Lower Middle Income,2.8
+Asia,Viet Nam,2000,Lower Middle Income,1.85
+Asia,Viet Nam,2002,Lower Middle Income,2.4
+Asia,Viet Nam,2003,Lower Middle Income,2.7
+Asia,Viet Nam,2004,Lower Middle Income,2.8
+Asia,Viet Nam,2005,Lower Middle Income,2.8
+Asia,Viet Nam,2006,Lower Middle Income,2.4
+Asia,Viet Nam,2007,Lower Middle Income,2.4
+Asia,Viet Nam,2008,Lower Middle Income,2.4
+Asia,Viet Nam,2009,Lower Middle Income,3.8
+Asia,Viet Nam,2010,Lower Middle Income,1.2
+Asia,Viet Nam,2013,Lower Middle Income,1.3
+Asia,Viet Nam,2014,Lower Middle Income,4.8
+Asia,Viet Nam,2015,Lower Middle Income,1.4
+Asia,Viet Nam,2017,Lower Middle Income,1.2
+Asia,Viet Nam,2018,Lower Middle Income,1.1
+Asia,Viet Nam,2019,Lower Middle Income,1
+Asia,Viet Nam,2020,Lower Middle Income,1
+Asia,Yemen,1991,Low Income,5.4
+Asia,Yemen,1997,Low Income,6.8
+Asia,Yemen,2003,Low Income,6.4
+Asia,Yemen,2005,Low Income,4.4
+Asia,Yemen,2011,Low Income,3.4
+Asia,Yemen,2013,Low Income,5.4
+Europe,Albania,2005,Upper Middle Income,3.7
+Europe,Albania,2009,Upper Middle Income,5.9
+Europe,Albania,2017,Upper Middle Income,0.5
+Europe,Belarus,2005,Upper Middle Income,0.6
+Europe,Belgium,2014,High Income,0
+Europe,Bosnia and Herzegovina,2000,Upper Middle Income,3.5
+Europe,Bosnia and Herzegovina,2006,Upper Middle Income,1.5
+Europe,Bosnia and Herzegovina,2012,Upper Middle Income,1.6
+Europe,Bulgaria,2004,Upper Middle Income,1.5
+Europe,Bulgaria,2007,Upper Middle Income,1.1
+Europe,Bulgaria,2014,Upper Middle Income,2.2
+Europe,Czechia,2001,High Income,1
+Europe,Estonia,2014,High Income,0
+Europe,Germany,2004,High Income,0.1
+Europe,Germany,2016,High Income,0
+Europe,Greece,2003,High Income,0.1
+Europe,Latvia,2021,High Income,0
+Europe,Montenegro,2005,Upper Middle Income,2.2
+Europe,Montenegro,2013,Upper Middle Income,1.2
+Europe,Montenegro,2018,Upper Middle Income,0.5
+Europe,Netherlands (Kingdom of the),1996,High Income,0.2
+Europe,Netherlands (Kingdom of the),2009,High Income,0.1
+Europe,North Macedonia,1999,Upper Middle Income,0.4
+Europe,North Macedonia,2005,Upper Middle Income,1.3
+Europe,North Macedonia,2011,Upper Middle Income,0.2
+Europe,North Macedonia,2019,Upper Middle Income,0.5
+Europe,Poland,2011,High Income,0
+Europe,Portugal,2016,High Income,0.1
+Europe,Republic of Moldova,2005,Upper Middle Income,2.4
+Europe,Republic of Moldova,2012,Upper Middle Income,0.5
+Europe,Romania,1999,High Income,0.8
+Europe,Romania,2000,High Income,1.1
+Europe,Romania,2001,High Income,1
+Europe,Romania,2002,High Income,0.7
+Europe,Russian Federation,1995,Upper Middle Income,1.4
+Europe,Russian Federation,1996,Upper Middle Income,1.2
+Europe,Russian Federation,1998,Upper Middle Income,1.3
+Europe,Russian Federation,2000,Upper Middle Income,1.7
+Europe,Russian Federation,2001,Upper Middle Income,1.7
+Europe,Russian Federation,2002,Upper Middle Income,2.3
+Europe,Russian Federation,2003,Upper Middle Income,1.2
+Europe,Russian Federation,2004,Upper Middle Income,0.5
+Europe,Russian Federation,2005,Upper Middle Income,1.3
+Europe,Serbia,2005,Upper Middle Income,1.8
+Europe,Serbia,2010,Upper Middle Income,0.8
+Europe,Serbia,2014,Upper Middle Income,1.1
+Europe,Serbia,2019,Upper Middle Income,0.5
+Europe,Ukraine,2000,Lower Middle Income,3.8
+Europe,United Kingdom,2010,High Income,0
+Europe,United Kingdom,2013,High Income,0
+Europe,United Kingdom,2015,High Income,0
+Europe,United Kingdom,2017,High Income,0.3
+Latin America and the Caribbean,Argentina,2005,Upper Middle Income,0.4
+Latin America and the Caribbean,Argentina,2018,Upper Middle Income,0.5
+Latin America and the Caribbean,Barbados,2012,High Income,2
+Latin America and the Caribbean,Belize,2006,Upper Middle Income,0.8
+Latin America and the Caribbean,Belize,2011,Upper Middle Income,1.2
+Latin America and the Caribbean,Belize,2015,Upper Middle Income,0.5
+Latin America and the Caribbean,Bolivia (Plurinational State of),1989,Lower Middle Income,0.8
+Latin America and the Caribbean,Bolivia (Plurinational State of),1994,Lower Middle Income,1.4
+Latin America and the Caribbean,Bolivia (Plurinational State of),1998,Lower Middle Income,0.7
+Latin America and the Caribbean,Bolivia (Plurinational State of),2003,Lower Middle Income,0.6
+Latin America and the Caribbean,Bolivia (Plurinational State of),2008,Lower Middle Income,0.5
+Latin America and the Caribbean,Bolivia (Plurinational State of),2012,Lower Middle Income,0.5
+Latin America and the Caribbean,Bolivia (Plurinational State of),2016,Lower Middle Income,0.9
+Latin America and the Caribbean,Brazil,1989,Upper Middle Income,0.9
+Latin America and the Caribbean,Brazil,1996,Upper Middle Income,1
+Latin America and the Caribbean,Brazil,2007,Upper Middle Income,0.4
+Latin America and the Caribbean,Brazil,2019,Upper Middle Income,0.7
+Latin America and the Caribbean,Colombia,1986,Upper Middle Income,0.3
+Latin America and the Caribbean,Colombia,1995,Upper Middle Income,0.5
+Latin America and the Caribbean,Colombia,2000,Upper Middle Income,0.4
+Latin America and the Caribbean,Colombia,2005,Upper Middle Income,0.4
+Latin America and the Caribbean,Colombia,2010,Upper Middle Income,0.2
+Latin America and the Caribbean,Colombia,2016,Upper Middle Income,0.4
+Latin America and the Caribbean,Costa Rica,2018,Upper Middle Income,0.1
+Latin America and the Caribbean,Cuba,2019,Upper Middle Income,0.6
+Latin America and the Caribbean,Dominican Republic,1986,Upper Middle Income,0.5
+Latin America and the Caribbean,Dominican Republic,1991,Upper Middle Income,0.6
+Latin America and the Caribbean,Dominican Republic,1996,Upper Middle Income,0.6
+Latin America and the Caribbean,Dominican Republic,2000,Upper Middle Income,0.5
+Latin America and the Caribbean,Dominican Republic,2002,Upper Middle Income,0.8
+Latin America and the Caribbean,Dominican Republic,2006,Upper Middle Income,0.4
+Latin America and the Caribbean,Dominican Republic,2007,Upper Middle Income,0.9
+Latin America and the Caribbean,Dominican Republic,2013,Upper Middle Income,0.8
+Latin America and the Caribbean,Dominican Republic,2019,Upper Middle Income,0.5
+Latin America and the Caribbean,Ecuador,1999,Upper Middle Income,0.4
+Latin America and the Caribbean,Ecuador,2004,Upper Middle Income,0.7
+Latin America and the Caribbean,Ecuador,2006,Upper Middle Income,0.5
+Latin America and the Caribbean,Ecuador,2012,Upper Middle Income,0.7
+Latin America and the Caribbean,Ecuador,2014,Upper Middle Income,0.6
+Latin America and the Caribbean,Ecuador,2019,Upper Middle Income,1.4
+Latin America and the Caribbean,El Salvador,1988,Lower Middle Income,0.5
+Latin America and the Caribbean,El Salvador,1993,Lower Middle Income,0.5
+Latin America and the Caribbean,El Salvador,1998,Lower Middle Income,0.4
+Latin America and the Caribbean,El Salvador,2003,Lower Middle Income,0.3
+Latin America and the Caribbean,El Salvador,2008,Lower Middle Income,0.5
+Latin America and the Caribbean,El Salvador,2014,Lower Middle Income,0.4
+Latin America and the Caribbean,Guatemala,1987,Upper Middle Income,0.4
+Latin America and the Caribbean,Guatemala,1995,Upper Middle Income,1.5
+Latin America and the Caribbean,Guatemala,1999,Upper Middle Income,1.4
+Latin America and the Caribbean,Guatemala,2000,Upper Middle Income,1.6
+Latin America and the Caribbean,Guatemala,2002,Upper Middle Income,0.8
+Latin America and the Caribbean,Guatemala,2009,Upper Middle Income,0.2
+Latin America and the Caribbean,Guatemala,2015,Upper Middle Income,0.25
+Latin America and the Caribbean,Guatemala,2021,Upper Middle Income,0.2
+Latin America and the Caribbean,Guyana,1993,Upper Middle Income,0.9
+Latin America and the Caribbean,Guyana,2000,Upper Middle Income,4.3
+Latin America and the Caribbean,Guyana,2006,Upper Middle Income,2.6
+Latin America and the Caribbean,Guyana,2009,Upper Middle Income,1.2
+Latin America and the Caribbean,Guyana,2014,Upper Middle Income,1.7
+Latin America and the Caribbean,Guyana,2019,Upper Middle Income,1.9
+Latin America and the Caribbean,Haiti,1994,Lower Middle Income,3
+Latin America and the Caribbean,Haiti,2000,Lower Middle Income,1.5
+Latin America and the Caribbean,Haiti,2006,Lower Middle Income,3.3
+Latin America and the Caribbean,Haiti,2012,Lower Middle Income,1.15
+Latin America and the Caribbean,Haiti,2017,Lower Middle Income,0.8
+Latin America and the Caribbean,Honduras,1991,Lower Middle Income,0.5
+Latin America and the Caribbean,Honduras,1996,Lower Middle Income,0.3
+Latin America and the Caribbean,Honduras,2001,Lower Middle Income,0.2
+Latin America and the Caribbean,Honduras,2006,Lower Middle Income,0.3
+Latin America and the Caribbean,Honduras,2012,Lower Middle Income,0.3
+Latin America and the Caribbean,Honduras,2019,Lower Middle Income,0.5
+Latin America and the Caribbean,Jamaica,1989,Upper Middle Income,0.6
+Latin America and the Caribbean,Jamaica,1991,Upper Middle Income,1.2
+Latin America and the Caribbean,Jamaica,1992,Upper Middle Income,0.3
+Latin America and the Caribbean,Jamaica,1993,Upper Middle Income,2.6
+Latin America and the Caribbean,Jamaica,1994,Upper Middle Income,0.9
+Latin America and the Caribbean,Jamaica,1995,Upper Middle Income,0.8
+Latin America and the Caribbean,Jamaica,1996,Upper Middle Income,0.1
+Latin America and the Caribbean,Jamaica,1997,Upper Middle Income,0.3
+Latin America and the Caribbean,Jamaica,1998,Upper Middle Income,0.9
+Latin America and the Caribbean,Jamaica,1999,Upper Middle Income,0.9
+Latin America and the Caribbean,Jamaica,2000,Upper Middle Income,1.5
+Latin America and the Caribbean,Jamaica,2001,Upper Middle Income,1
+Latin America and the Caribbean,Jamaica,2002,Upper Middle Income,0.7
+Latin America and the Caribbean,Jamaica,2004,Upper Middle Income,1.1
+Latin America and the Caribbean,Jamaica,2006,Upper Middle Income,0.9
+Latin America and the Caribbean,Jamaica,2007,Upper Middle Income,1.2
+Latin America and the Caribbean,Jamaica,2008,Upper Middle Income,0.3
+Latin America and the Caribbean,Jamaica,2010,Upper Middle Income,1.5
+Latin America and the Caribbean,Jamaica,2012,Upper Middle Income,0.8
+Latin America and the Caribbean,Jamaica,2014,Upper Middle Income,0.5
+Latin America and the Caribbean,Jamaica,2016,Upper Middle Income,0.5
+Latin America and the Caribbean,Jamaica,2018,Upper Middle Income,1
+Latin America and the Caribbean,Mexico,1988,Upper Middle Income,2.1
+Latin America and the Caribbean,Mexico,1989,Upper Middle Income,1.7
+Latin America and the Caribbean,Mexico,1998,Upper Middle Income,0.7
+Latin America and the Caribbean,Mexico,2002,Upper Middle Income,0.7
+Latin America and the Caribbean,Mexico,2006,Upper Middle Income,0.95
+Latin America and the Caribbean,Mexico,2012,Upper Middle Income,0.4
+Latin America and the Caribbean,Mexico,2015,Upper Middle Income,0.4
+Latin America and the Caribbean,Mexico,2016,Upper Middle Income,0.3
+Latin America and the Caribbean,Mexico,2019,Upper Middle Income,0.4
+Latin America and the Caribbean,Mexico,2020,Upper Middle Income,0.4
+Latin America and the Caribbean,Mexico,2021,Upper Middle Income,0.5
+Latin America and the Caribbean,Nicaragua,1993,Lower Middle Income,0.9
+Latin America and the Caribbean,Nicaragua,1998,Lower Middle Income,1.5
+Latin America and the Caribbean,Nicaragua,2001,Lower Middle Income,0.9
+Latin America and the Caribbean,Nicaragua,2004,Lower Middle Income,0
+Latin America and the Caribbean,Nicaragua,2007,Lower Middle Income,0.5
+Latin America and the Caribbean,Nicaragua,2012,Lower Middle Income,0.7
+Latin America and the Caribbean,Panama,1997,High Income,0.3
+Latin America and the Caribbean,Panama,2003,High Income,0.4
+Latin America and the Caribbean,Panama,2008,High Income,0.3
+Latin America and the Caribbean,Panama,2019,High Income,0.3
+Latin America and the Caribbean,Paraguay,1990,Upper Middle Income,0.2
+Latin America and the Caribbean,Paraguay,1998,Upper Middle Income,0.4
+Latin America and the Caribbean,Paraguay,2005,Upper Middle Income,0.3
+Latin America and the Caribbean,Paraguay,2012,Upper Middle Income,0.4
+Latin America and the Caribbean,Paraguay,2016,Upper Middle Income,0.4
+Latin America and the Caribbean,Peru,1991,Upper Middle Income,0.6
+Latin America and the Caribbean,Peru,1996,Upper Middle Income,0.7
+Latin America and the Caribbean,Peru,2000,Upper Middle Income,0.4
+Latin America and the Caribbean,Peru,2005,Upper Middle Income,0.1
+Latin America and the Caribbean,Peru,2007,Upper Middle Income,0.2
+Latin America and the Caribbean,Peru,2009,Upper Middle Income,0.2
+Latin America and the Caribbean,Peru,2010,Upper Middle Income,0.2
+Latin America and the Caribbean,Peru,2011,Upper Middle Income,0.1
+Latin America and the Caribbean,Peru,2012,Upper Middle Income,0.1
+Latin America and the Caribbean,Peru,2013,Upper Middle Income,0.2
+Latin America and the Caribbean,Peru,2014,Upper Middle Income,0.1
+Latin America and the Caribbean,Peru,2015,Upper Middle Income,0.1
+Latin America and the Caribbean,Peru,2016,Upper Middle Income,0.1
+Latin America and the Caribbean,Peru,2017,Upper Middle Income,0.1
+Latin America and the Caribbean,Peru,2018,Upper Middle Income,0.1
+Latin America and the Caribbean,Peru,2019,Upper Middle Income,0.1
+Latin America and the Caribbean,Peru,2020,Upper Middle Income,0.1
+Latin America and the Caribbean,Peru,2021,Upper Middle Income,0.1
+Latin America and the Caribbean,Saint Lucia,2012,Upper Middle Income,0.7
+Latin America and the Caribbean,Suriname,2000,Upper Middle Income,2
+Latin America and the Caribbean,Suriname,2006,Upper Middle Income,1
+Latin America and the Caribbean,Suriname,2010,Upper Middle Income,0.8
+Latin America and the Caribbean,Suriname,2018,Upper Middle Income,1
+Latin America and the Caribbean,Trinidad and Tobago,1987,High Income,1.3
+Latin America and the Caribbean,Trinidad and Tobago,2000,High Income,0.9
+Latin America and the Caribbean,Trinidad and Tobago,2011,High Income,2.1
+Latin America and the Caribbean,Turks and Caicos Islands,2020,High Income,0.1
+Latin America and the Caribbean,Uruguay,1999,High Income,0.5
+Latin America and the Caribbean,Uruguay,2002,High Income,0.5
+Latin America and the Caribbean,Uruguay,2003,High Income,0.4
+Latin America and the Caribbean,Uruguay,2004,High Income,0.7
+Latin America and the Caribbean,Uruguay,2007,High Income,0.4
+Latin America and the Caribbean,Uruguay,2011,High Income,0
+Latin America and the Caribbean,Uruguay,2013,High Income,0.3
+Latin America and the Caribbean,Uruguay,2016,High Income,0.2
+Latin America and the Caribbean,Uruguay,2018,High Income,0.2
+Northern America,United States,1991,High Income,0.1
+Northern America,United States,2000,High Income,0.1
+Northern America,United States,2002,High Income,0
+Northern America,United States,2004,High Income,0
+Northern America,United States,2006,High Income,0.2
+Northern America,United States,2008,High Income,0.1
+Northern America,United States,2010,High Income,0
+Northern America,United States,2012,High Income,0
+Northern America,United States,2014,High Income,0
+Northern America,United States,2016,High Income,0.1
+Northern America,United States,2018,High Income,0
+Oceania,Australia,2007,High Income,0
+Oceania,Fiji,2004,Upper Middle Income,1.8
+Oceania,Fiji,2021,Upper Middle Income,1.1
+Oceania,Kiribati,2018,Lower Middle Income,1.3
+Oceania,Marshall Islands,2017,Upper Middle Income,1.1
+Oceania,Nauru,2007,High Income,0.2
+Oceania,Papua New Guinea,1983,Lower Middle Income,1.2
+Oceania,Papua New Guinea,2005,Lower Middle Income,0.8
+Oceania,Papua New Guinea,2010,Lower Middle Income,6.4
+Oceania,Samoa,2014,Lower Middle Income,1.3
+Oceania,Samoa,2019,Lower Middle Income,1.2
+Oceania,Solomon Islands,1989,Lower Middle Income,2
+Oceania,Solomon Islands,2007,Lower Middle Income,1.4
+Oceania,Solomon Islands,2015,Lower Middle Income,3.6
+Oceania,Tonga,2012,Upper Middle Income,2.1
+Oceania,Tonga,2019,Upper Middle Income,0.4
+Oceania,Tuvalu,2007,Upper Middle Income,0.9
+Oceania,Tuvalu,2019,Upper Middle Income,1.3
+Oceania,Vanuatu,2008,Lower Middle Income,1.9
+Oceania,Vanuatu,2013,Lower Middle Income,1.5
