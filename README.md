@@ -119,8 +119,14 @@ Background Characteristics	Where available, the point estimates and other parame
 ## Folder Structure
 
 	01 Project Management: Contains document analysis process and results.
-	02 Data: Contains project-related dataset. It has two folders: Original data set and processed data(filtered, pivoted) inside the prepared data
-	03 Scripts/Python: Scripts contain source code in Python, and the example folder contains time series and regression analysis code.
+ 
+	02 Data: Contains project-related dataset. 
+ 		It has two folders: The original data set and 
+	 			    prepared data form Original data( It contains pivoted data, filtered, cleaned data sets)
+	 
+	03 Scripts/Python: Scripts contain source code in Python, and 
+ 				the example folder contains time series and regression analysis code.
+     
 	04 Analysis/Visualizations: Requires to save the images from the script. 
 =====================================================================
 
