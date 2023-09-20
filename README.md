@@ -117,10 +117,12 @@ Background Characteristics	Where available, the point estimates and other parame
 +  Subnational Region	
 
 ## Folder Structure
+
+##### Root
 01 Project Management: Contains document analysis process and results.
-02 Data: Contains project-related dataset. It has two folders Original data set and processed data(filtered, pivoted) inside the prepared data
+02 Data: Contains project-related dataset. It has two folders: Original data set and processed data(filtered, pivoted) inside the prepared data
 03 Scripts/Python: Scripts contain source code in Python, and the example folder contains time series and regression analysis code.
-04 Analysis/Visualizations: Requires to save the images from the script. The task is pending
+04 Analysis/Visualizations: Requires to save the images from the script. 
 =====================================================================
 
 ## References
